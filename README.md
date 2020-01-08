@@ -4,12 +4,12 @@ Do you want to collect President Trump's Twitter followers for data analysis? I 
 
 The following is a link to download the profile URLs of the first 100,000 followers as a trial.
 
-[Download first 100,000 followers of @realDonaldTrump]()
+[Download first 100,000 followers of @realDonaldTrump](http://bit.ly/trumpfollowers)
 
 **IMPORTANT NOTICE**
 
 Making the profiles of followers downloadable may violate Twitter's Terms of Service, so I only allow you to download the list of Twitter profile URLs.
-If you need detailed profile data for analysis purposes, please feel free to contact [github.com/ts-3156](https://github.com/ts-3156).
+If you need detailed profile data for analysis purposes, please feel free to contact [github.com/ts-3156](http://bit.ly/35wbXmP).
 
 ----
 
@@ -31,4 +31,4 @@ I am a Japanese engineer. I’m in charge of the data analysis.
 
 I help collect large amounts of big data at a low price. This low price is achieved by specializing in collecting, not analyzing, data.
 
-Please feel free to contact [github.com/ts-3156](https://github.com/ts-3156) if you have any questions.
+Please feel free to contact [github.com/ts-3156](http://bit.ly/35wbXmP) if you have any questions.
